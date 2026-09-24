@@ -1,0 +1,18 @@
+/*
+60 of #418CBE
+30 of #41BEB1
+10 of #414EBE
+*/
+
+:root {
+
+    /* var(--primaryColor) */
+    --primaryColor: #418CBE;
+
+    /* var(--secondaryColor) */
+    --secondaryColor: #41BEB1;
+
+    /* var(--accentColor) */
+    --accentColor: #414EBE;
+
+}

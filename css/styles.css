@@ -8,6 +8,11 @@ body {
 }
 
 
+.font-awesome-icons {
+    background-color: var(--primaryColor);
+}
+
+
 .montserrat-imed {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;

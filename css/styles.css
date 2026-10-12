@@ -21,7 +21,7 @@ body {
 .montserrat-imed {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <bold>;
+    font-weight: bold;
     font-style: normal;
 }
 
@@ -36,5 +36,6 @@ fa-footer {
 
 .fa-footer i {
     color: #fff;
-    font-size: 25px margin: 15pm;
+    font-size: 25px;
+    margin: 15p15px;
 }
